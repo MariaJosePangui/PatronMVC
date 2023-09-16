@@ -1,0 +1,39 @@
+Tipo: Tablet
+Marca: Lenovo
+Memoria RAM: 4GB
+Memoria de Almacenamiento: 64GB
+Procesador: ARM Cortex-A53
+Modelo: modelo 2
+Año de Fabricacion2022
+Precio: 75990
+Cantidad en Stock: 5
+Resolución de pantalla: 1280x800
+Lista de accesorios: lapiz
+
+Tipo: Notebook
+Marca: Lenovo
+Memoria RAM: 8GB
+Memoria de Almacenamiento: 512GB
+Procesador: Intel Core i5
+Modelo: modelo 1
+Año de Fabricacion2022
+Precio: 999990
+Cantidad en Stock: 10
+Resolución de pantalla: 1920x1080
+Tipo de teclado: Teclado qwerty
+Bateria : 5000 mAh
+
+Tipo: Computador
+Marca: Lenovo
+Memoria RAM: 16GB
+Memoria de Almacenamiento: 220GB
+Procesador: procesador1
+Modelo: modelo 2
+Año de Fabricacion2020
+Precio: 250000
+Cantidad en Stock: 45
+Tarjeta de Video: tarjeta1
+Fuente de Poder: poder1
+Chasis: chasis1
+
+Pantalla@25f38edc
